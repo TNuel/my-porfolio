@@ -42,10 +42,10 @@ const router = createRouter({
 });
 
 router.beforeEach((to, from, next) => {
-  document.title = `Kamil Pomykała | Profolio`;
+  document.title = `Emmanuel Tolani | Profolio`;
 
   if (['Blog Post', 'Projects', 'Blog'].includes(String(to.name))) {
-    document.title = `Kamil Pomykała | Profolio - ${String(to.name)}`;
+    document.title = `Emmanuel Tolani | Profolio - ${String(to.name)}`;
   }
 
   next();
