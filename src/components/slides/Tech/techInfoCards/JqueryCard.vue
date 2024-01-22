@@ -9,5 +9,6 @@
     Jquery is a build tool for modern static web apps. It old but still has many features that I love. For example - on default it uses
     HTML by querying the html tags by id.
   </p>
-  <a href="/projects?tech=astro" class="default-link-light">My projects that use JQuery</a>
+  <div>My projects that use JQuery.</div>
+  <a href="https://bankmaster.sigmaoct.com/" target="_blank" class="default-link-light">Bankmaster: A web-app for bank staff</a>
 </template>

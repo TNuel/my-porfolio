@@ -13,5 +13,9 @@
     Javascript anymore. Fortunately, most framework nowadays use Typescript out of box or at least have a very good support for it.
   </p>
   <p>Please make your life easier - use Typescript.</p>
-  <a href="/projects?tech=typescript" class="default-link-light">My projects that use Typescript.</a>
+  <div>My projects that use Typescript.</div>
+  <div class="flex space-x-3 flex-wrap">
+    <a href="http://144.126.217.27:8098/" target="_blank" class="default-link-light text-[#61dbfb]">Egom Admin Dashboard.</a>
+    <a href="http://144.126.217.27:8097/" target="_blank" class="default-link-light text-[#61dbfb]">Egomi Customer Dashboard.</a>
+  </div>
 </template>

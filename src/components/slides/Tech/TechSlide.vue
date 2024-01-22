@@ -9,7 +9,7 @@ const technologies: { name: string; logoPath: string; secondaryLogoPath?: string
     name: "Javascript",
     logoPath: "/icons/technologies/javascript.png",
     span: "2x",
-    cardComponent: Card.YiiCard
+    cardComponent: Card.JSCard
   },
   {
     name: "React",

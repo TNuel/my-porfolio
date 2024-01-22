@@ -14,7 +14,7 @@ const slides = [
   { component: Slide.WelcomeSlide, hash: '#welcome' },
   { component: Slide.AboutSlide, hash: '#about' },
   { component: Slide.TechSlide, hash: '#tech' },
-  // { component: Slide.ProjectsSlide, hash: '#projects' },
+  { component: Slide.ProjectsSlide, hash: '#projects' },
   // { component: Slide.BlogSlide, hash: '#blog' },
   { component: Slide.ContactSlide, hash: '#contact' },
 ];

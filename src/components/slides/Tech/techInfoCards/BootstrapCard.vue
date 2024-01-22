@@ -15,5 +15,6 @@
     any annoying opinionated styles you have to fight to override.
     It simple and fast.
   </p>
-  <a href="/projects?tech=django" class="default-link-light">My projects that use Bootstrap</a>
+  <div>My projects that use Bootstrap.</div>
+  <a href="https://bankmaster.sigmaoct.com/" target="_blank" class="default-link-light">Bankmaster: A web-app for bank staff</a>
 </template>

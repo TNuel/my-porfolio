@@ -4,6 +4,6 @@ import ReactCard from './ReactCard.vue';
 import TailwindCard from './TailwindCard.vue';
 import TypescriptCard from './TypescriptCard.vue';
 import VueCard from './VueCard.vue';
-import YiiCard from './YiiCard.vue';
+import JSCard from './JSCard.vue';
 
-export { JqueryCard, BootstrapCard, ReactCard, TailwindCard, TypescriptCard, VueCard, YiiCard };
+export { JqueryCard, BootstrapCard, ReactCard, TailwindCard, TypescriptCard, VueCard, JSCard };

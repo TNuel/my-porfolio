@@ -10,6 +10,12 @@
     cause many problems. There are many helper libraries but they do things differently and it makes coding confusing. Next.js is a solution
     to those problems but it has its own problems.
   </p>
-  <p>I'll move to Vue.js as soon as possible. I think it's a better solution for me.</p>
-  <a href="/projects?tech=react" class="default-link-light">My projects that use React.</a>
+  <div>My projects that use React.</div>
+  <div>
+    <a href="https://relaxed-naiad-1bf32c.netlify.app" target="_blank" class="default-link-light text-[#61dbfb]">E-commerce project for Crop2Cash.</a>
+    <span class="ml-3">The username: <b>mor_2314</b> and password: <b>83r5^_</b>.</span>
+  </div>
+  <div>
+    <a href="https://courageous-froyo-bef21b.netlify.app" target="_blank" class="default-link-light text-[#61dbfb]">Movie Site.</a>
+  </div>
 </template>

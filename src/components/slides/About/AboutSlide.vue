@@ -67,7 +67,7 @@ const links = [
     <div class="max-w-3xl">
       <h1 class="slide-title">Something about me</h1>
       <div class="flex flex-col gap-3 lg:gap-5 text-primary-gray text-base lg:text-lg">
-        <p>Like I said my name is Emmanuel, I'm {{ age }} years old. I'm a <b>Mid-level Frontend Developer</b> located in Ibadan, Nigeria.</p>
+        <p>Like I said my name is Emmanuel. I'm a <b>Mid-level Frontend Developer</b> located in Ibadan, Nigeria.</p>
         <p>I started my coding adventure 4th of June, 2020. First it was <i>HTML, CSS, Tailwind CSS, Javascript</i> and then it just went on to Javascript framework like Jquery, React and Vue.js etc</p>
         <p>
           Music and Food are a big part of me. I love good music and in particular the genres of <b>Hip-Hop</b> and <b>Afro-Beat</b>.
